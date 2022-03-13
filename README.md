@@ -4,9 +4,8 @@ Shell script to install a [ImageCoin Masternode](https://imagecoin.imagehosty.co
 ***
 ## Installation:
 ```
-git clone https://github.com/mceme/ImageCoin.git
-cd ImageCoin
-cd imginstall
+git clone https://github.com/mceme/Imagehosty.git
+cd Imagehosty
 bash img-install.sh
 ```
 ***
