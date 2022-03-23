@@ -13,6 +13,8 @@ bash img-install.sh
 ## Desktop wallet setup
 
 After the MN is up and running, you need to configure the desktop wallet accordingly. Here are the steps for Windows Wallet
+Blockchain download: https://mega.nz/file/vExWiKYB#RoT5G5JbNllDNWTL2olfZPOtzim9IfM0zoRAxiJD-7A 
+
 1. Open the ImageCoin Coin Desktop Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
 3. Send **10000** **ImageCoin** to **MN1**.
